@@ -21,7 +21,7 @@
             class="alert alert-danger"
             role="alert"
           >
-            Username is required!
+            名稱必填
           </div>
         </div>
         <div class="form-group">
